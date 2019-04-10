@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Time Capsule Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <h1> WHERE ARE WE TOGETHER NOW? </h1>
+
+    <div class="scrollmenu">
+      <marquee class="scrollmessage" behavior="scroll" direction="left" scrollamount="25">EXPLORE READ CONSIDER</marquee>
+    </div>
+
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body text="white">
+    <h1><br>SENATOR AL FRANKEN</h1>
+
+
+      <br>
+      <br>
+
+    <form>
+      <input class="MyButton" type="button" value="GO BACK" onclick="window.location.href='../time_cap_final/index.html'" />
+    </form>
+
+      <br>
+      <br>
+
+    <footer>
+    <p>JOHN * ESMERALDA * SHAUN * ANINHA * KEESHAWN
+    <br>WANTED TO SHARE A <em>2019</em> CONVERSATION
+    <br>WITH YOU</p>
+  </footer>
+
+  </body>
+
+</html>
